@@ -5,7 +5,8 @@ body {
 article { margin:0 auto; width:1020px; }
 
 .output {
-	font-size:160px;
+	font-size:120px;
+	margin:0 0 40px 0;
 	text-align:center; 
 }
 
@@ -35,7 +36,7 @@ input {
 	border:none;
 	font-family: 'Open Sans', sans-serif;
 	background:#f2f2f2;
-	font-size:160px;
+	font-size:120px;
 	padding:10px;
 	outline:none;
 	text-align:center;

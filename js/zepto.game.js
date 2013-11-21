@@ -4,7 +4,7 @@ $(document).ready(function(){
 	var second = 0;
 	var minute = 0;
 	
-	var letters = "a a ; ; s s l l dd kk f f j j ; ;; a a l l e e uu oo enter ww x x r r c c i i , , v v m m . . d d l l a as l enter dk f j j f kd s l a ; a j fmw uc ox ri vl ak uf ja e enter enter also work over could form come six enter offers four does room low world five enter would sour crust loud slow four enter enter for form our or from more some also enter work over would offer cake low doors enter come seer lead keep deep sleep enter enter A call from me. From me. See me fall. enter A low door. Some will work. enter Ask dad. A sad lad. Ask all dads.";
+	var letters = "g g t t b b f f g g f f t t f f b f g f f t f f b enter f f f g g t t b b fg f g t f t b f b b b g g f f enter t t fb f f t f f g f f f g g t t b b f g enter enter a b c d e f g i j k l m o r s t u v w x g t b enter f g b go to bo ge ti bu gs jt kb jf gw tm enter br cg xt bw gt at bets to go it le t sits enter enter eat ate took but out bags two gave fast enter good before blue just take give black little enter after because time brittle bowl grow tow enter enter Save it. Eat fast. Good job. Little or big. enter Takes me time. Birds fly. Grubs burrow. enter Gerbils eat some food.";
 	var flow = letters;	
 		letters = letters.split(" ");
 		flow = flow.replace(/enter/g, "<br />");
